@@ -1,0 +1,46 @@
+body {
+    background-color: #e8b947;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ratings {
+    color: #3c5161;
+    font-family: avenir;
+    font-size: 18px;
+}
+
+h1 {
+    color: #000;
+    font-size: 45px;
+}
+
+.btn-primary {
+    margin-left: 10px;
+    background: #516d83;
+    color: #fff;
+}
+
+.btn-submit {
+    margin-left: 10px;
+    background: #db6276;
+    color: #fff;
+}
+
+@media screen and (max-width: 480px) {
+    .movImage {
+        width: 500px;
+        height: 500px;
+    }
+}
+
+.form-control {
+    width: 30%;
+}
+
+#add {
+    font-size: 20px;
+    color: #000;
+}
